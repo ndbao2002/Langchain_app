@@ -1,5 +1,7 @@
 # Product Recommendation System
 
+![Demo](Demo.png)
+
 ## Dataset
 
 This system uses the dataset from [kaggle](https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog).
